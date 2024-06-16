@@ -1,0 +1,38 @@
+{
+    "source_image_shape": [
+        4,
+        211,
+        233
+    ],
+    "target_image_shape": [
+        4,
+        10980,
+        10980
+    ],
+    "restored_image_shape": [
+        4,
+        10980,
+        10980
+    ],
+    "source_image_corners": {
+        "upper_left": [
+            0.0,
+            0.0
+        ],
+        "lower_right": [
+            23.3,
+            21.1
+        ]
+    },
+    "restored_image_corners": {
+        "upper_left": [
+            399960.0,
+            5800020.0
+        ],
+        "lower_right": [
+            509760.0,
+            5690220.0
+        ]
+    },
+    "number_of_restored_pixels": 19
+}
